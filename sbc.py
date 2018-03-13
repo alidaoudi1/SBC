@@ -53,3 +53,7 @@ for result in results['results']['bindings']:
     
 
 print('finished')
+
+import json
+with open('result.json', 'w') as fp:
+    json.dump(results, fp)
