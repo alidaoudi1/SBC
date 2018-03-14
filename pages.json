@@ -1,0 +1,5818 @@
+{
+	"head": {
+		"link": [],
+		"vars": ["page"]
+	},
+	"results": {
+		"distinct": false,
+		"ordered": true,
+		"bindings": [{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Larkin_Administration_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/New_York_Crystal_Palace"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/New_York_World_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/City_Investing_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Beacon_Towers"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Yankee_Stadium_(1923)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pennsylvania_Station_(New_York_City)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Polo_Grounds"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Singer_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pennsylvania_Station_(1910\u201363)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Inisfada"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Old_Orchard_Shoal_Light"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Madison_Square_Garden_(1879)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Madison_Square_Garden_(1890)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Madison_Square_Garden_(1925)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hudson_Terminal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brookholt"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Savoy-Plaza_Hotel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/World_Trade_Center_(1973\u20132001)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Champlain_Bridge_(United_States)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/New_York_Tribune_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Depot"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Lodge"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Park_Operations_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Village_Historic_District"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hopi_House"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marble_Canyon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Geology_of_the_Grand_Canyon_area"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kanab_Plateau"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Maswik_Lodge"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Buckey_O'Neill_Cabin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Havasu_Falls"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hualapai"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Phantom_Ranch"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kolb_Studio"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Staircase"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_National_Park_Superintendent's_Residence"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Norman_Nevills"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_South_Rim_Ranger's_Dormitory"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grandview_Mine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Trans-Canyon_Telephone_Line,_Grand_Canyon_National_Park"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Desert_Wonderland"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kenton_Grua"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_National_Park"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Village,_Arizona"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Little_Colorado_River"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hermits_Rest"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bert_Loper"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_(1958_film)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Suite"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Lookout_Studio"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Desert_View_Watchtower"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tusayan_Ruins"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Caverns"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Association"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Havasu_Creek"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Man_Who_Walked_Through_Time"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon:_The_Hidden_Secrets"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Coconino_Plateau"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kaibab_Plateau"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Vasey's_Paradise"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Newton_Butte"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tanner_Graben"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Temple_Butte"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Lure_of_the_Grand_Canyon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Backcountry_Camping"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Havasupai"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Railway"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Escalade"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Deer_Creek_(Arizona)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Isis_Temple"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Santa_Fe_and_Grand_Canyon_Railroad"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Supergroup"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1956_Grand_Canyon_mid-air_collision"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Diamond_Creek_(Arizona)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/John_Hance"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon:_A_Different_View"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/El_Tovar_Hotel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Canyon_Skywalk"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_Colorado_River_rapids_and_features"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Chuar_Group"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Prospect_Dam_(Arizona)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Grand_Canyon_National_Park"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tonto_Group"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Toroweap_Fault"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pink_Jeep_Tours"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hyaloclastite_Dam"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Summerfest"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marcus_Amphitheater"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/German_Fest"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Henry_Maier_Festival_Park"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/PrideFest_(Milwaukee)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Festa_Italiana"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Milwaukee_Irish_Fest"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/William_Monroe_Trotter_House"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Loring-Greenough_House"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Federal_Reserve_Bank"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cox_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jacob_Wirth_Restaurant"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Women's_Tennis_Association"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mary_Ewing_Outerbridge"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jack_Kramer"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/History_of_tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Women's_tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Martina_Navratilova's_74-match_winning_streak_in_1984"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/All_England_Lawn_Tennis_and_Croquet_Club"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wimbledon_Lawn_Tennis_Museum"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/ITF_World_Champions"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/C._C._Pyle"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Philadelphia_Cricket_Club"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Carl_August_von_der_Meden"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1970_Houston_Women's_Invitation"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Duane_Williams"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/International_Tennis_Hall_of_Fame"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Battle_of_the_Sexes_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Walter_Clopton_Wingfield"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1881_U.S._National_Championships_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1925_French_Championships_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mike_Davies_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Clerg\u00e9"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_Open_Era_tennis_records"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Association_of_Tennis_Professionals"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Harry_Gem"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tenniseum"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dwight_F._Davis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_tournament_records_and_statistics"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1877_Wimbledon_Championship"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1905_Australasian_Championships"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Augurio_Perera"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Spencer_Gore_(sportsman)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Herman_David"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/World_Championship_Tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/James_Dwight"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_male_players_statistics"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Men's_International_Professional_Tennis_Council"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1968_British_Hard_Court_Championships"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Virginia_Slims_Circuit"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1912_World_Hard_Court_Championships"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/James_I_of_Scotland"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_real_tennis_world_champions"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_court"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Official_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_scoring_system"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Penn_Racquet_Sports"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/10_and_Under_Tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Howard_Cary"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_tour"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Types_of_tennis_match"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Anyone_for_tennis%3F"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_strategy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2004_Western_&_Southern_Financial_Group_Women's_Open_\u2013_Doubles"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2004_Western_&_Southern_Financial_Group_Women's_Open_\u2013_Singles"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2006_Bausch_&_Lomb_Championships_\u2013_Doubles"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Outline_of_tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_injuries"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Saddlebrook_Academies"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ilie_N\u0103stase_career_statistics"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1969_New_South_Wales_Open_\u2013_Women's_Singles"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2016_Fed_Cup_Asia/Oceania_Zone_Group_II_\u2013_Play-offs"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2016_Fed_Cup_Asia/Oceania_Zone_Group_II_\u2013_Pool_A"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2016_Fed_Cup_Asia/Oceania_Zone_Group_II_\u2013_Pool_B"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tie_Break_Tens"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/DecoTurf"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rebound_Ace"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Plexicushion"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/GreenSet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Clay_court"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Laykold"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grass_court"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hardcourt"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/No-line_court"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/SportMaster_Sport_Surfaces"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Carpet_court"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Electronic_line_judge"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/PointTracker"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Polo_shirt"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hawk-Eye"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/MacCAM"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stringing_machine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Backboard_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Strings_(tennis)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cyclops_(computer_system)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Racket_(sports_equipment)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Overgrip"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Snauwaert"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_ball"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wilson_ProStaff_Original_6.0"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Howard_Head"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Shock_stop"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_technology"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Prince_original_graphite"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bentley_Fortissimo"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wilson_K-Factor"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_Federation_of_Vojvodina"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Confederation_of_African_Tennis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tennis_Wales"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Atlanta_Lawn_Tennis_Association"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Champions_Series_(senior_men's_tennis_tour)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Xena:_Warrior_Princess"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jack_of_All_Trades_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/TekLords"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Vanishing_Son"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/TekWar_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hercules:_The_Legendary_Journeys"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Action_Pack_(television)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Another_Midnight_Run"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Midnight_Run_for_Your_Life"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Midnight_Runaround"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cleopatra_2525"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Young_Hercules"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Knight_Rider_2010"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Earth:_Final_Conflict"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Starlost"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/You_Can't_Do_That_on_Television"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Flashpoint_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Let's_Go_(1976_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/My_Secret_Identity"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/OWL/TV"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Bridge_(Canadian_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_City_(1999_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Eleventh_Hour_(Canadian_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Twice_in_a_Lifetime_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Girls_of_Latitude"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stormworld"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Valerie_Pringle_Has_Left_The_Building"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_New_Avengers_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_programs_broadcast_by_CTV_and_CTV_Two"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Here_Come_the_Seventies"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Target:_The_Impossible"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Bobby_Vinton_Show"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Fabulous_Sixties"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Let's_Sing_Out"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Comedy_Now!"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Trouble_with_Tracy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/People_in_Conflict"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Eye_Bet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Definition_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mount_Royal_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Power_Play_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Anything_You_Can_Do_(game_show)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mysterious_Ways_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Borgias_(2011_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Camp_Cariboo"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Swiss_Family_Robinson_(1974_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Katts_and_Dog"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Red_Fisher_Show"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/5-4-3-2-Run"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Canada_in_View"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire:_Canadian_Edition"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/NHL_on_CTV"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bordertown_(1989_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Defying_Gravity_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Once_a_Thief_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Showdown_(Canadian_game_show)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Amazing_Race_Canada"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Selfish_Giant_(1972_film)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Any_Woman_Can_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Search_and_Rescue_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Take_a_Chance_(Canadian_game_show)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Holmes_Show"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Comedy_Inc._(Canadian_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Lorne_Greene's_New_Wilderness"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/What's_the_Good_Word%3F"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Spun_Out"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Telemiracle"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dan_for_Mayor"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Marilyn_Denis_Show"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Little_Men_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marie-Soleil"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alice,_I_Think_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Backpackers_(web_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bizarre_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Counterstrike_(1990_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/George_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Motive_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Whistler_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/So_You_Think_You_Can_Dance_Canada"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Would_Be_Kings"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Entertainment_Spotlight"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Two_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grand_Old_Country"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/CTV_Morning_Live"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Balance:_Television_for_Living_Well"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Degrassi:_The_Next_Generation"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Network_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Satisfaction_(2013_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/West_Coast_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sunday_Edition_(Canadian_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dr._Simon_Locke"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Perry's_Probe"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Happy_Prince_(film)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Canada_AM"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Corner_Gas"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Thrill_of_a_Lifetime"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cold_Squad"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Double_Exposure_(comedy_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Instant_Star"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Robson_Arms"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gateway_Anti-Virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Clam_AntiVirus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/ClamWin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/ClamTk"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/KlamAV"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Iframe_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Smeg_Virus_Construction_Kit"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Macro_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Casino_(computer_virus)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Beast_(Trojan_horse)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Computer_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Drive-by_download"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Metamorphic_code"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Zero-day_(computing)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cryptovirology"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Igor_Artimovich"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Festering_Hate"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dexter_(malware)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stars_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Vector_(malware)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Virus_hoax"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Multipartite_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mark_Ludwig"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Camfecting"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Software_forensics"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Oligomorphic_code"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/W32.Myzor.FK@yf"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Goat_file"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rabbit_(program)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Strange_Brew_(computer_virus)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cookie_Monster_(computer_program)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Creeper_(program)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dark_Avenger"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Elk_Cloner"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Comparison_of_computer_viruses"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kenzero"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/BadBIOS"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Festi"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/AVIEN"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Compression_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Backoff"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Source_code_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fakeflash"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/London_Action_Plan"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/CenterPOS_Malware"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alina_malware"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/FastPOS"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/MultigrainMalware"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/PE_infection"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/PunkeyPOS_Malware"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/X_Agent_(spyware)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/System_Infected:_Backdoor_VBS_Dunihi"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mac_Malware"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tuxissa"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Goodtimes_virus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Antichrist_(virus_hoax)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jdbgmgr.exe_virus_hoax"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/SULFNBK.EXE"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bad_Times"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/AF/91"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cabir_(computer_worm)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mobile_malware"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/XcodeGhost"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Palm_OS_viruses"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Commwarrior_(computer_virus)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Shedun"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/DroidKungFu"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/GingerMaster"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ikee"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dendroid_(malware)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brain_Test"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/F-PROT_Antivirus_for_DOS"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Search&Destroy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Agent_Smith"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hexadecimal_(character)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Megabyte_(ReBoot)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Lamer_Exterminator"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/SCA_(computer_virus)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Byte_Bandit"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Malwarebytes"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Agnitum"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dr._Web"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kaspersky_Lab"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Panda_Cloud_Antivirus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Prevx"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/VirusBuster"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dr_Solomon's_Antivirus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/McAfee_VirusScan"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ewido_Networks"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Intego"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Whitelist"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Norton_System_Insight"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/EICAR"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Graugon_AntiVirus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/MSAV"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/MacKeeper"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Quick_Heal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Quarantine_(computing)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bitdefender"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Vba32_AntiVirus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XII"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XV"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XX"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XXIV"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XXXI"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XXXVI"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Superdome"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Carnival_of_Champions"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sugar_Bowl"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Essence_Music_Festival"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/WrestleMania_XXX"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bassmaster_Classic_XXXI"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XLVII_halftime_show"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2003_NCAA_Men's_Division_I_Basketball_Tournament"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/2012_NCAA_Men's_Division_I_Basketball_Tournament"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bayou_Classic"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1988_Republican_National_Convention"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1982_NCAA_Men's_Division_I_Basketball_Tournament"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1987_NCAA_Men's_Division_I_Basketball_Tournament"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1993_NCAA_Men's_Division_I_Basketball_Tournament"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Champions_Square"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Super_Bowl_XLVII"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/1976_Pro_Bowl"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sugar_Ray_Leonard_vs._Roberto_Dur\u00e1n_II"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Effect_of_Hurricane_Katrina_on_the_Louisiana_Superdome"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kleemann"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Carlsson_(car_company)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Museum"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Classic_Center"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_U.S._International"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_World"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ernst_Lieb"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rudolf_Uhlenhaut"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jakob_Werlin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/HICOM_Automotive_Manufacturers_(Malaysia)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_9G-Tronic_transmission"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/BeiBen_Truck"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Stadium"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Merc\u00e9d\u00e8s_Jellinek"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wilhelm_Maybach"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Comand_APS"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_W194"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Active_Body_Control"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cars_(painting)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-AMG"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_in_Formula_One"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_in_motorsport"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brabus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Renntech"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Venger"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Koenig_Specials"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Metris"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Christian_Lautenschlager"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hermann_Lang"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kompressor_(Mercedes-Benz)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes_AMG_High_Performance_Powertrains"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/C'\u00e9tait_un_rendez-vous"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_7G-Tronic_transmission"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/4Matic"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Emil_Jellinek"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Karl-Gottfried_Nordmann"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Karosserie_Baur"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Automuseum_Dr._Carl_Benz"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/BlueTec"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/European_delivery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Fashion_Week"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_Grand_Prix_results"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M114_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M180_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M273_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M120_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M275_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/DiesOtto"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M112_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M271_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM611_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M102_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M103_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M115_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M123_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M276_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M278_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M116_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M111_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M121_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M272_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M950F"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M136_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M137_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM604_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM612_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM457_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM654_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M117_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM642"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M100_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_M156_engine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_Mercedes-Benz_engines"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mercedes-Benz_OM603"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Card_scheme"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cashplus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/NexG_PrePaid"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Accolades_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Discover_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ingenico"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gravity_Payments"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card_fraud"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/CardIt"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_Saison"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Netbanx"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/OnePulse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/TaiwanMoney_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/InteliSpend_Prepaid_Solutions"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Universal_Air_Travel_Plan"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alpha_Card_Services"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/PayAnywhere"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/SBI_Cards"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Payments_as_a_service"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/American_Express"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_CARD_Act_of_2009"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/JCB_Co.,_Ltd."
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/MasterCard"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/North_American_Bancard"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Everything_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Verifone"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Revolution_Money"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Access_(credit_card)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/BC_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Centurion_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card_debt"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card_hijacking"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Diners_Club_International"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Visa_Inc."
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fuel_card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Zolotaya_Korona"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Barclaycard"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/HSBC"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bankcard"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/EnRoute_(credit_card)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/BankCard_Services"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/KarloCompare"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/CreditCards.com"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Entrust_Bankcard_Company"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Payoneer"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/MCVE"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Palladium_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Synchrony_Financial"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Eurocard_(payment_card)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Black_Card_(Visa_credit_card)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/HSBC_Bank_(Turkey)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hyundai_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Choice_(credit_card)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/China_UnionPay"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/CardLab"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/I_Love_Velvet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marquette_National_Bank_of_Minneapolis_v._First_of_Omaha_Service_Corp."
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Smiley_v._Citibank_(South_Dakota),_N._A."
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Home_Capital_Group"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Controlled_payment_number"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Medi_Script"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wireless_identity_theft"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Offshore_credit_card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card_kiting"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kisan_Credit_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rail_travel_card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cardholder_Information_Security_Program"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Europay_International"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Creditsudhaar"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Carte_Bleue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Card_reciprocal_agreements"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/RuPay"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Frequent-flyer_program"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cashback_reward_program"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stoozing"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bank_Norwegian"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Membership_Rewards"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/GM_Card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card_balance_transfer"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fixed_Acquirer_Network_Fee"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Seasoned_tradeline"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Card_not_present_transaction"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Card_security_code"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Interchange_fee"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Merchant_category_code"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Secure_Electronic_Transaction"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_limit"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Chargeback_fraud"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Credit_card_interest"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Affinity_credit_card"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grace_period"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dispute_(credit_card)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dynamic_currency_conversion"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Corporate_travel_management"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Qualified_Security_Assessor"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Payment_terminal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Revolving_account"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/CCVS"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cash_advance"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Houyhnhnm"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grass_Mud_Horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Flicka_2"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Passecerf"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gaignun"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tach\u00ebbrun"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tencendur"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pantomime_horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Midori_no_Makiba\u014d"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sawhorse_(Oz)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Wise_Little_Girl"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Comet_(DC_Comics)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Flicka"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/My_Little_Pony"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Secretariat_(Craig_Ferguson)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rakhsh"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Swift_Wind"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Aragorn_(comics)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tornado_(horse)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Black_Beauty"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Black_Beauty_(1921_film)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Black_Beauty_(1946_film)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Epona_(The_Legend_of_Zelda)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hwin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Flicka:_Country_Pride"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Non_Sequitur_(comic_strip)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Magician's_Horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Horace_Horsecollar"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ride_a_cock_horse_to_Banbury_Cross"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Quick_Draw_McGraw"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Blood_Red_Horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bree_(Narnia)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pascal_and_Maximus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rocinante"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fledge_(Narnia)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mister_Ed"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rocking_horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Clavile\u00f1o"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Crystal's_Pony_Tale"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marvin_the_Tap-Dancing_Horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Horsecatcher"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Blaze_(toy)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stormy,_Misty's_Foal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Valinor_(comics)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Li'l_Sebastian"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_My_Little_Pony:_Friendship_Is_Magic_characters"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Horseland_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_fictional_horses"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Buster_Bronco_(Boise_State)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Buster_Bronco_(Western_Michigan)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Black_Stallion"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sorel_(horse)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Boxer_(Animal_Farm)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sugarfoot_(character)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kid_Colt"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Smoky_the_Cowhorse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Giant_Horse_of_Oz"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Wishing_Horse_of_Oz"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Casey's_Shadow"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wildfire_(1986_TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wildfire_(TV_series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Four_Horsemen_of_the_Apocalypse_in_popular_culture"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jolly_Jumper"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Thoroughbred_(series)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Adventure_of_Silver_Blaze"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Horse_and_His_Boy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Girl_Who_Loved_Wild_Horses"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Latawnya,_the_Naughty_Horse,_Learns_to_Say_%22No%22_to_Drugs"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cheval_Gauvin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Barbamouche"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gramimond"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marmorie"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sautperdu"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Neil_the_Horse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Melyngar"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Horse_and_the_Donkey"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Histamiini"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Narwhal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Unicorn"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Abada_(unicorn)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/White_horse_(mythology)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Re'em"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Camahueto"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Indrik"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Karkadann"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Shadhavar"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Hunt_of_the_Unicorn"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Lady_and_the_Unicorn"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Monoceros_(legendary_creature)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Lion_and_the_Unicorn"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Qilin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Unicorn_horn"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Elasmotherium"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Unicorn_Cave"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Scottish_Royal_tapestry_collection"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_unicorns"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pegasus_(Dungeons_&_Dragons)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Chollima"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Buraq"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hippalectryon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alum"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tannic_acid"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tannin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gallic_acid"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gambier_(extract)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grandinin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dorset_Blue_Vinney"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rokpol"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Roquefort"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Blue_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Lymeswold_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gamalost"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stichelton"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Norbury_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Aura_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleu_de_Bresse"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cambozola"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleu_B\u00e9n\u00e9dictin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fourme_de_Montbrison"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Valde\u00f3n_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cherni_Vit_(cheese)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wrekin_White"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brighton_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wensleydale_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gorgonzola"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleu_des_Causses"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/\u00c4delost"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dovedale_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleu_d'Auvergne"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Buxton_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Newport_1665"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Saga_(cheese)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dragon's_Breath_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Saint_Agur_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Shropshire_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cabrales_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Stilton_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Maytag_Blue_cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/J&L_Grubb"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pic\u00f3n_Bejes-Tresviso"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dolcelatte"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Danish_Blue_Cheese"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleuch\u00e2tel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grinzola"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleu_de_Gex"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bleu_du_Vercors-Sassenage"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fourme_d'Ambert"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Lanark_Blue"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Carr\u00e9_d'Aurillac"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_blue_cheeses"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Blue_Cheshire"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Oxford_Blue_(cheese)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bavaria_Brewery_(Netherlands)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brouwerij_De_Molen"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Amstel_Brewery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Budelse_Brouwerij"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/De_Koningshoeven_Brewery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alfa_Brewery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Heineken_International"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brouwerij_'t_Koelschip"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Brouwerij_'t_IJ"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_Dutch_breweries"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dommelsch_Brewery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gulpener_Brewery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Grolsch_Brewery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Capsaicin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Zucapsaicin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Homocapsaicin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Homodihydrocapsaicin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Nordihydrocapsaicin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Capsazepine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dihydrocapsaicin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Nonivamide"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cadbury"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fox's_Confectionery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bassett's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Skinny_Candy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Michton"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Thorntons"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Walkers'_Nonsuch"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mackintosh's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Millar_McCowan"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Terry's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tangerine_Confectionery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hope_and_Greenwood"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Divine_Chocolate"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/J._S._Fry_&_Sons"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Maynards"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bendicks"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Peppersmith"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/W_&_M_Duncan_and_Company"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Swizzels_Matlow"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Needler's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Elizabeth_Shaw_(confectionery_company)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rowntree_Mackintosh_Confectionery"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Green_&_Black's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Rowntree's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Moo_Free_Limited"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/A._L._Simpkin_&_Co._Ltd"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Quiggin's"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Henri_Becquerel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Claude_Bloch"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alexandru_Proca"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Eid_Hourany"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Monique_Sen\u00e9"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jules_Gu\u00e9ron"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kendal_Nezan"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean-\u00c9mile_Charon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/H\u00e9l\u00e8ne_Langevin-Joliot"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ren\u00e9_Turlay"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bernard_Bigot"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alain_Bugat"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Xavier_Le_Pichon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Morlet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bernard_Brunhes"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Anny_Cazenave"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Vincent_Courtillot"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Janne_Blichert-Toft"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pierre_Perrault_(scientist)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fran\u00e7ois_Arago"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Henri_Poincar\u00e9"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean-Charles_de_Borda"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Claude_Eug\u00e8ne_P\u00e9clet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_le_Rond_d'Alembert"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Louis_de_Broglie"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Cabannes"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Louis-Guillaume_Le_Monnier"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Arthur_Morin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Eliane_Montel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Thibault_Damour"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Claude_Cohen-Tannoudji"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pierre_Weiss"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Claude_Pouillet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jacques-Ars\u00e8ne_d'Arsonval"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Andr\u00e9_Blondel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Louis-Fran\u00e7ois-Clement_Breguet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Michel_Ferdinand_d'Albert_d'Ailly"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Anne_L'Huillier"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Paul-Henri_Rebut"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Dominique_Proust"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Edmond_Pourchot"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Michel_Cass\u00e9"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Philippe_Le_Corbeiller"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Constantin_Senlecq"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Luce_Langevin-Dubus"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Michel_Brune"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Charles-Augustin_de_Coulomb"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Charles_Athanase_Peltier"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marie_Alfred_Cornu"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Nikita_Nekrasov"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mioara_Mugur-Sch\u00e4chter"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/L\u00e9on_Brillouin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marcel_Brillouin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Audouze"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean-Baptiste_Thillaie_Delaborde"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Henri_Bacry"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Andr\u00e9-Marie_Amp\u00e8re"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Augustin-Jean_Fresnel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Blaise_Pascal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Firmin_Abauzit"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gaspard-Gustave_de_Coriolis"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Marie_Curie"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pierre_Curie"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sophie_Germain"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alain_Aspect"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alexis_Th\u00e9r\u00e8se_Petit"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Zinn-Justin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Loup_Verlet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Paul_Ulrich_Villard"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/\u00c9milie_du_Ch\u00e2telet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Gabriel_Lippmann"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Uriel_Frisch"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Andr\u00e9_Mar\u00e9chal"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Antoine_C\u00e9sar_Becquerel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Henri_Victor_Regnault"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jacques_Friedel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jacques_Villain"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Becquerel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jules_Jamin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Robert_Aymar"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alfred-Marie_Li\u00e9nard"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean-Marc_L\u00e9vy-Leblond"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Yvonne_Choquet-Bruhat"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Louis-S\u00e9bastien_Lenormand"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Guillaume_Amontons"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Baptiste_Perrin"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pierre-Gilles_de_Gennes"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alex_Grossmann"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Alfred_Perot"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Henri_Buisson"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hubert_Curien"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jacques_Babinet"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Pierre_Lemonnier"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hans_von_Halban"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Bernard_Derrida"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Vincent_Rivasseau"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Jean_Ginibre"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/L\u00e9on_Motchane"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Olivier_Guyon"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Illuminatus!_Trilogy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Principia_Discordia"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/List_of_Discordian_works"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Masks_of_the_Illuminati"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Schr\u00f6dinger's_Cat_Trilogy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Sex_Magicians"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Historical_Illuminatus_Chronicles"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Towel_Day"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/X-Day_(Church_of_the_SubGenius)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Discordian_calendar"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/August_12"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/December_8"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/February_19"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/February_29"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/July_15"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/March_19"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/May_31"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/October_24"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/September_26"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/January_5"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Fnord"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Celine's_laws"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Discordianism"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Eris_(mythology)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Judgement_of_Paris"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hand_of_Eris"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Apple_of_Discord"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Immanentize_the_eschaton"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Operation_Mindfuck"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Harmonia_(mythology)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/All_rights_reversed"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Guerrilla_ontology"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Concordia_(mythology)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Mu_(negative)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/K_Foundation"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Emperor_Norton"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hong_Meng"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cosmic_Trigger_I:_The_Final_Secret_of_the_Illuminati"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cosmic_Trigger_II:_Down_to_Earth"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Cosmic_Trigger_III:_My_Life_After_Death"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Illuminati_Papers"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Coincidance:_A_Head_Test"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Everything_Is_Under_Control:_Conspiracies,_Cults_and_Cover-ups"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ishtar_Rising"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Natural_Law,_or_Don't_Put_a_Rubber_on_Your_Willy"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Reality_Is_What_You_Can_Get_Away_With"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Sex,_Drugs_and_Magick"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/TSOG:_The_Thing_That_Ate_the_Constitution"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Tale_of_the_Tribe"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Devival"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Order_of_Accendo"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Robert_Anton_Wilson"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Malaclypse_the_Younger"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Steve_Jackson_(US_game_designer)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Kerry_Wendell_Thornley"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/S._John_Ross_(game_designer)"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Hagbard_Celine"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Reality_tunnel"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/23_enigma"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Eight-circuit_model_of_consciousness"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Ewige_Blumenkraft"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Quantum_Psychology"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_New_Inquisition"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Playboy's_Book_of_Forbidden_Words"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Prometheus_Rising"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Right_Where_You_Are_Sitting_Now"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/The_Walls_Came_Tumbling_Down"
+			}
+		},
+		{
+			"page": {
+				"type": "uri",
+				"value": "http://dbpedia.org/resource/Wilhelm_Reich_in_Hell"
+			}
+		}]
+	}
+}
