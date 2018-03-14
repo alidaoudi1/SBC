@@ -52,5 +52,7 @@ for page in pages:
         pagesCleaned[pageName][propertyName] = [propertyValue]
      
         
-pagesCleaned.pop(pageName)        
-#print (pagesCleaned)
+pagesCleaned.pop(pageName)   
+
+with open('pagesCleaned.json', 'w') as fp:
+    json.dump(pagesCleaned, fp)     
