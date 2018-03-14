@@ -33,8 +33,6 @@ result = sparql.query().convert()
 print("Opening file")
 result = json.load(open('pages2.json'))
 
-print(result)
-
 pages = result["results"]["bindings"]
 pagesCleaned = {}
 for page in pages:
