@@ -1,0 +1,1 @@
+Scripts Python avec les réseaux de neurones que nous aurions voulu adapter afin de pouvoir les appliquer sur notre dataset
